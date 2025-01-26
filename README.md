@@ -7,6 +7,11 @@
 
 # Blazor AI Chat - How to add the DevExpress Blazor AI Chat component to your next Blazor, MAUI, WPF, and WinForms application
 
+1. 下载ollama的windows桌面版
+2. 下载deepseek r1 并运行
+3. 运行此程序即可开始使用
+
+
 The DevExpress Blazor AI Chat component ([DxAIChat](https://docs.devexpress.com/Blazor/DevExpress.AIIntegration.Blazor.Chat.DxAIChat?v=24.2)) allows you to incorporate AI-powered interactions into any Blazor/MAUI/WPF/WinForms application. Our AI Chat component ships with a variety of high impact features, including:
 
 * [Customizable message appearance and empty message area](#customize-message-appearance-and-empty-message-area)
